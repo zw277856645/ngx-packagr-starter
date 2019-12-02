@@ -30,12 +30,12 @@
     "rxjs": "^6.5.1"
   },
   "dependencies": {
+  },
+  "devDependencies": {
     "@angular/common": "8.1.2",
     "@angular/core": "8.1.2",
     "zone.js": "0.9.1",
-    "rxjs": "6.5.1"
-  },
-  "devDependencies": {
+    "rxjs": "6.5.1",
     "@angular/platform-browser": "8.1.2",
     "@angular/platform-browser-dynamic": "8.1.2",
     "@angular/compiler-cli": "8.1.2",
